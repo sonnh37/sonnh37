@@ -6,7 +6,9 @@
 ### <div align="center">I'm Son, a Back-end developer </div>  
   
 
-- 🌱 I’m currently learning software engineer at FPT University  
+- 🌱 I’m currently learning software engineer at FPT University
+- 📫 How to reach me nguyenson20zzzz@gmail.com
+- 📄 Know about my experiences [https://sonnh1106cv.my.canva.site/resume](https://sonnh1106cv.my.canva.site/resume)
 
 <br/>  
 
