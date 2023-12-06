@@ -107,12 +107,3 @@
 
 <br/>  
 
-## Buy Me A Coffee
-<div align="center">
-            <a href="https://www.buymeacoffee.com/sangtran12.7" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
