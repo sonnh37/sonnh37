@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sang, a fullstuck/fullstackoverflow developer😉</div>  
+### <div align="center">I'm Son, a Back-end developer </div>  
   
 
 - 🌱 I’m currently learning software engineer at FPT University  
@@ -62,24 +62,29 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
+## Github 
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh1106&show_icons=true&locale=en&layout=compact" alt="sonnh1106" /></p>
+</div>
+<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh1106&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 
 
-
+## Spotify
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sonnh1106&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
+
+
 ## Buy Me A Coffee
 <div align="center">
 <p><a href="https://www.buymeacoffee.com/sonnh1106"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sonnh1106" /></a></p><br><br>
 </div>
-<br />
+<br/>
