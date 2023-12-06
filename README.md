@@ -69,12 +69,12 @@
 
 ## Skills
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh1106&show_icons=true&locale=en&layout=compact" alt="sonnh1106" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh1106&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonnh1106" /></p>
 </div>
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh1106&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh1106&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 <br/>
 
 
