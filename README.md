@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi👋 I'm Son, a Back-end developer </div>  
+### <div align="center">Hi👋 I'm Son, a Software Engineering </div>  
   
 
 - 🌱 I’m currently learning software engineer at FPT University
