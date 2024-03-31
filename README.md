@@ -7,11 +7,6 @@
   
 
 - 🌱 I’m currently learning software engineer at FPT University
-- 📫 How to reach me sonnh1106.se@gmail.com
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-</p>
 
 <br/>  
 
