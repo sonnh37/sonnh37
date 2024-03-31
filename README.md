@@ -15,7 +15,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -61,6 +60,17 @@
 
 <br/>  
 
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh1106&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonnh1106" /></p>
+</div>
+<br/>
+
+## Spotify
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sonnh1106&&style=flat-square" align="center" />
+</div>  
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -77,25 +87,15 @@
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
 </div>  
-
 <br/>  
 
-## Skills
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh1106&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonnh1106" /></p>
-</div>
-<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh1106&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 <br/>
 
 
-## Spotify
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sonnh1106&&style=flat-square" align="center" />
-</div>  
-<br/>  
+
 
 
 ## Buy Me A Coffee
