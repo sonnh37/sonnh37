@@ -10,7 +10,7 @@
 - 📫 How to reach me sonnh1106.se@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/hoang-son-7a6607222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hoang-son-7a6607222" height="30" width="40" /></a>
+
 </p>
 
 <br/>  
@@ -75,6 +75,9 @@
 <a href="https://www.facebook.com/zhson.20" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+  <a href="https://linkedin.com/in/linkedin.com/in/hoang-son-7a6607222" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" &style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 </div>  
 
 <br/>  
