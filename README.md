@@ -65,6 +65,11 @@
 </div>
 <br/>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh1106&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<br/>
+
+
 ## Spotify
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sonnh1106&&style=flat-square" align="center" />
@@ -90,9 +95,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh1106&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
-<br/>
 
 
 
