@@ -62,12 +62,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh1106&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 <br/>
 
-
-## Spotify
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sonnh1106&&style=flat-square" align="center" />
-</div>  
-<br/>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh1106&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonnh1106" /></p>
+</div>
+<br/>
+
+
 
 
 ## Connect with me  
@@ -93,8 +93,9 @@
 <p><a href="https://www.buymeacoffee.com/sonnh1106"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sonnh1106" /></a></p><br><br>
 </div>
 <br/>
-
+## Spotify
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh1106&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonnh1106" /></p>
-</div>
-<br/>
+<img src="https://komarev.com/ghpvc/?username=sonnh1106&&style=flat-square" align="center" />
+</div>  
+<br/>  
+
