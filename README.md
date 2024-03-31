@@ -75,8 +75,11 @@
 <a href="https://www.facebook.com/zhson.20" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-<a href="https://linkedin.com/in/linkedin.com/in/hoang-son-7a6607222" target="blank">
-  <img src=https://img.shields.io/badge/linkedin-%232E87FB.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="mailto:sonnh1106.se@gmail.com" target="blank">
+  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
+  <a href="https://linkedin.com/in/linkedin.com/in/hoang-son-7a6607222" target="blank">
+  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
 </div>  
 
