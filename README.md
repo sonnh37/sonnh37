@@ -1,11 +1,11 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-### My Skills  
+<!-- ### My Skills  
 <table><tr><td valign="top" width="33%">
 
 
-### Frontend  
+<!-- ### Frontend  
 <div align="center">  
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -26,7 +26,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50"/>
 
-</div>
+</div> -->
 
 <!-- </td><td valign="top" width="33%">
 
@@ -49,12 +49,14 @@
 <br/>   -->
 
 ## Github Stats  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sonnh37&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh37&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></td>
-  </tr>
-</table>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh37&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<br/>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh37&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonnh37" /></p>
+</div>
+<br/>
+
 
 
 
