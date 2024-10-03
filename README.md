@@ -28,7 +28,7 @@
 
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%">
 
 
 
@@ -46,17 +46,15 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 </td></tr></table>  
-<br/>  
+<br/>   -->
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sonnh37&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
-<br/>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh37&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonnh37" /></p>
-</div>
-<br/>
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sonnh37&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh37&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></td>
+  </tr>
+</table>
 
 
 
