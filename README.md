@@ -54,6 +54,9 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=sonnh37&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh37&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></td>
   </tr>
+    <tr>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonnh37&" alt="sonnh37" />
+    </tr>
 </table>
 
 
