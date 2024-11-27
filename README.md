@@ -2,11 +2,11 @@
 ## 📊 Github Stats  
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonnh37&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh37&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></td>
+    <td><img align="center" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=sonnh37&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></td>
+    <td><img align="center" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonnh37&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></td>
   </tr>
     <tr>
-       <td> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonnh37&theme=tokyonight" alt="sonnh37" /></td>
+       <td> <img align="center" width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonnh37&theme=tokyonight" alt="sonnh37" /></td>
     </tr>
 </table>
 
@@ -25,19 +25,10 @@
    </a>
 </div>
 
-
       
-<br/>  
+<br/> 
 
-
-## Buy Me A Coffee
-<div align="center">
-<p><a href="https://www.buymeacoffee.com/sonnh37"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sonnh37" /></a></p><br><br>
-</div>
-<br/>
-## Spotify
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sonnh37&&style=flat-square" align="center" />
-</div>  
+<hr />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnh37&label=Profile%20views&color=0e75b6&style=flat" alt="sonnh37" /> </p>
 <br/>  
 
