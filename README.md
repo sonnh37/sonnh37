@@ -15,7 +15,6 @@
       
 <br/> 
 
-<hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnh37&label=Profile%20views&color=0e75b6&style=flat" alt="sonnh37" /> </p>
 <br/>  
 
