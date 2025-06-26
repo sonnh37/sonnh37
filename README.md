@@ -1,5 +1,5 @@
 <h1>Hi 👋🏼, I'm Son</h1>
-<p>A passionate full-stack developer from VietNam</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+full-stack+developer+from+VietNam)](https://git.io/typing-svg)
 <h2>🧑‍💻 Technologies That I Know</h2>
 <h5>Languages and databases:</h5>
 <a href="https://skillicons.dev">
