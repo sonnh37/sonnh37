@@ -1,28 +1,20 @@
 <h1>Hi 👋🏼, I'm Son</h1>
 <p>A passionate full-stack developer from VietNam</p>
 <h2>🧑‍💻 Technologies That I Know</h2>
-<h5>Languages:</h5>
+<h5>Languages and databases:</h5>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts&perline=6">
+    <img src="https://skillicons.dev/icons?i=cs,ts,postgres,mysql&perline=6">
 </a>
-
 
 <h5>Frameworks:</h5>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,nextjs,angular,react&perline=6">
 </a>
 
-
-<h5>Databases:</h5>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6">
-</a>
-
 <h5>Tools:</h5>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rider,webstorm,vscode,arduino,git,github,postman&perline=6">
 </a>
-
 
 <h5>Others:</h5>
 <a href="https://skillicons.dev">
