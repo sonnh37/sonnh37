@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=700&lines=A+passionate+full-stack+developer+from+Vietnam." alt="Typing SVG" /></a><h2>🧑‍💻 Technologies That I Know</h2>
 <h5>Languages and databases:</h5>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,postgres,mysql&perline=6">
+    <img src="https://skillicons.dev/icons?i=cs,ts,html,css,postgres,mysql&perline=6">
 </a>
 
 <h5>Frameworks:</h5>
@@ -17,7 +17,7 @@
 
 <h5>Others:</h5>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,kafka,rabbitmq,docker,githubactions,firebase,azure,netlify,vercel&perline=6">
+    <img src="https://skillicons.dev/icons?i=tailwind,kafka,rabbitmq,docker,githubactions,firebase,azure,netlify,vercel&perline=6">
 </a>
   
 <br/>
