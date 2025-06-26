@@ -1,5 +1,5 @@
 <h1>Hi 👋🏼, I'm Son</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+full-stack+developer+from+VietNam" alt="Typing SVG" /></a><h2>🧑‍💻 Technologies That I Know</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=700&lines=A+passionate+full-stack+developer+from+Vietnam." alt="Typing SVG" /></a><h2>🧑‍💻 Technologies That I Know</h2>
 <h5>Languages and databases:</h5>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,ts,postgres,mysql&perline=6">
