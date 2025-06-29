@@ -2,22 +2,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=700&lines=A+passionate+full-stack+developer+from+Vietnam." alt="Typing SVG" /></a><h2>🧑‍💻 Technologies That I Know</h2>
 <h5>Languages and databases:</h5>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,html,css,postgres,mysql&perline=6">
+    <img src="https://skillicons.dev/icons?i=cs,ts,html,css,postgres,mysql">
 </a>
 
 <h5>Frameworks:</h5>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nextjs,angular,react&perline=6">
+    <img src="https://skillicons.dev/icons?i=dotnet,nextjs,angular,react">
 </a>
 
 <h5>Tools:</h5>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rider,webstorm,vscode,arduino,git,github,postman&perline=6">
+    <img src="https://skillicons.dev/icons?i=rider,webstorm,vscode,arduino,git,github,postman">
 </a>
 
 <h5>Others:</h5>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,kafka,rabbitmq,docker,githubactions,firebase,azure,netlify,vercel&perline=6">
+    <img src="https://skillicons.dev/icons?i=tailwind,kafka,rabbitmq,docker,githubactions,firebase,azure,netlify,vercel">
 </a>
   
 <br/>
